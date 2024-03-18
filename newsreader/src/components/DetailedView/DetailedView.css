@@ -1,0 +1,53 @@
+.detailed-card {
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 20px;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+.detailed-btn {
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.detailed-btn:hover {
+    background-color: #0056b3;
+}
+
+.detailed-title {
+    margin-top: 0;
+    font-size: 20px;
+}
+
+.detailed-description {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.detailed-img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.detailed-link {
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.detailed-link:hover {
+    text-decoration: underline;
+}
