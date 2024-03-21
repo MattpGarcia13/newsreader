@@ -31,7 +31,7 @@ This project has not been deployed as of now.
 
 ### Installation (frontend)
 
-1. Get to my Showcase repo at [https://github.com/MattpGarcia13/Showcase](https://github.com/MattpGarcia13/newsreader)
+1. Get to my newsreader repo at [https://github.com/MattpGarcia13/Showcase](https://github.com/MattpGarcia13/newsreader)
 2. Clone the repo
    ```sh
    git@github.com:MattpGarcia13/newsreader.git
@@ -69,16 +69,12 @@ This project has not been deployed as of now.
 
 - [x] Initial Setup
 - [x] Create Home page
-- [x] Create API
 - [x] Setup GET
-- [x] Create "Plan a Hunt" page
-- [x] Stylize Home & Hunt pages
+- [x] Stylize Home & news pages
 - [x] Create Cards for API data
-- [x] Create Footer (inspired by Nike)
-- [x] Create functionality allowing users to hunt a dinosaur of their choosing
-- [x] Fill out "About Us" and "Sign Up" sections
+- [x] Create functionality allowing users to sort news articles
 - [x] Stylize everything to this point
-- [x] Create testing with Cypress
+- [x] Update READ.ME
     
 
 
@@ -89,7 +85,7 @@ This project has not been deployed as of now.
 
 Matt Garcia - matt@garcia.dev
 
-Project Link: https://github.com/MattpGarcia13/Showcase
+Project Link: https://github.com/MattpGarcia13/newsreader
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
